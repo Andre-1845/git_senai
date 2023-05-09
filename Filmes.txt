@@ -1,0 +1,7 @@
+Teste de GIT
+
+Frases de filmes
+
+	Linha adicionada depois do primeiro ADD
+
+	Mais uma linha teste.
