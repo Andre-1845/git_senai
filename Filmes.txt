@@ -7,3 +7,6 @@ Frases de filmes
 	Mais uma linha teste.
 
 Nova linha depois do primeiro commit
+
+Adicionando novas linhas para testar
+
