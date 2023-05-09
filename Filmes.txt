@@ -5,3 +5,5 @@ Frases de filmes
 	Linha adicionada depois do primeiro ADD
 
 	Mais uma linha teste.
+
+Nova linha depois do primeiro commit
