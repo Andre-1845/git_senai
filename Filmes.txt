@@ -3,8 +3,8 @@ Teste de GIT
 Frases de filmes
 
 	Linha adicionada depois do primeiro ADD
-
 	Mais uma linha teste.
+Nova linha inserida e uma deletatda
 
 Nova linha depois do primeiro commit
 
